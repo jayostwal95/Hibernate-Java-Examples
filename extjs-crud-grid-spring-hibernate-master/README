@@ -1,0 +1,11 @@
+Example of a CRUD grid using ExtJS, Spring Framework 3 and Hibernate 3.5.
+
+All libs included.
+
+First of all execute the MySQL scrip: sql/script.sql
+
+I used Eclipse Helios and Tomcat 7.0 to develop this app. 
+This project is in Eclipse dynamic web project format.
+
+
+
